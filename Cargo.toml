@@ -1,0 +1,19 @@
+[package]
+name = "lumiterm"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "lumiterm"
+path = "src/main.rs"
+
+[dependencies]
+winit = "0.29"
+softbuffer = "0.4"
+portable-pty = "0.8"
+vte = "0.13"
+fontdue = "0.8"
+
+[profile.release]
+opt-level = 3
+lto = true
