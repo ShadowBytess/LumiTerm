@@ -1,5 +1,3 @@
-```LumiTerm
-
 ## LumiTerm: A custom terminal by LuminousCat (@ShadowBytess) for CachyOS/Arch Linux.
 
 This is a fully maintained environment until it becomes stable enough to abandon, as well as it is a passion project.
@@ -20,4 +18,4 @@ I am currently working to fix these.
 
 If you would like to help, please email my GitHub contact email or submit an Issue/Pull Request to ask.
 
-Thank you.```
+Thank you.
